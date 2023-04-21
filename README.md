@@ -3,7 +3,7 @@
 </div>  
   
 
-# **<div align="center">I'm Parsa Cheraqi , I'm a fullstack developer from Iran,Tehran👨‍💻</div>**  
+# **<div align="center">I'm Parsa Cheraqi , I'm a Backend developer from Iran,Tehran👨‍💻</div>**  
   
 
 - 🔭 I’m currently working on my own web site to run a business of my own  
